@@ -1,0 +1,1 @@
+This is a project created in the fall semester of 2023 at Boston University for the class, CDS DS 110 (Introduction to Data Science with Python). It analyzes population trends in a certain spotify data set from kaggle.
